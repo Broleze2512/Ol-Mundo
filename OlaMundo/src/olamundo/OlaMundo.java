@@ -6,13 +6,13 @@ public class OlaMundo {
 
     
     public static void main(String[] args) {
-           EscreverOlaMundo();
+           OlaMundo();
            Soma();
            Subtrção();
            Multiplicação();
            Divisão();
     }
-    public static void EscreverOlaMundo(){
+    public static void OlaMundo(){
             System.out.println("Olá Mundo");
        
     }
